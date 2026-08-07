@@ -17,7 +17,7 @@ OUTPUT_FILE      = "index.html"
 
 NOME_CLIENTE     = "Gemte"
 LOGO_LETRA       = "G"
-COR_ACENTO       = "#FF6D2D"
+COR_ACENTO       = "#215F50"
 
 LANCAMENTO_COD   = ""        # filtra campanhas; "" = ver tudo
 USAR_PESQUISA    = False            # False = oculta aba Pesquisa
